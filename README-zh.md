@@ -1,4 +1,4 @@
-# <center>WeChat Emojis</center>
+<h1 align="center">WeChat Emojis</h1>
 
 <p align="center">
     <a href="https://github.com/yang-ym23/WeChat-emojis/stargazers">
